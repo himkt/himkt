@@ -1,3 +1,5 @@
+![cover image](https://user-images.githubusercontent.com/5164000/88478259-c5885b00-cf81-11ea-9ce1-d049e177ae8f.jpg)
+
 [![twitter badge](https://img.shields.io/badge/twitter-himkt-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/hyperparams)
 [![twitter badge](https://img.shields.io/badge/twitter-himkt%20(en)-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/himkt)
 [![instagram badge](https://img.shields.io/badge/instagram-himamako-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/himamako)
