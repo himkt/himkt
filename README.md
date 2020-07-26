@@ -3,8 +3,8 @@
 [![twitter badge](https://img.shields.io/badge/twitter-himkt-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/hyperparams)
 [![twitter badge](https://img.shields.io/badge/twitter-himkt%20(en)-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/himkt)
 [![instagram badge](https://img.shields.io/badge/instagram-himamako-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/himamako)
-[![blog badge](https://img.shields.io/badge/blog-medium-1f425f?style=flat-square)](https://medium.com/@himkt)
-[![blog badge](https://img.shields.io/badge/speakerdeck-himkt-1f425f?style=flat-square)](https://speakerdeck.com/himkt)
+[![blog badge](https://img.shields.io/badge/speakerdeck-himkt-009287?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/himkt)
+[![blog badge](https://img.shields.io/badge/blog-medium-12100E?style=flat-square&logo=medium)](https://medium.com/@himkt)
 
 ### Makoto Hiramatsu, himako, himkt
 
