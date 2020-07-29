@@ -13,5 +13,5 @@
 
 ### OSS
 
-- I contribute a little to [Optuna](https://github.com)
-- In the NLP framework [Flair](https://github.com/flairNLP/flair), [konoha](https://github.com/himkt/konoha) is used
+- I contribute a little to [Optuna](https://github.com/optuna/optuna)
+- [Flair](https://github.com/flairNLP/flair), a strong NLP library, uses my NLP tool [konoha](https://github.com/himkt/konoha)
